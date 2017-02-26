@@ -31,10 +31,16 @@ p.para3{
 	font-style: oblique;
 	line-height: 1.2em;
 	background-color: white;
-	padding: 20px;
-	border-color: black;
-	border-width: 2px;
-	border-style: solid;
+	//shot hand for padding 
+	//padding: top right bottom left;
+	padding: 20px 20px 20px 70px;
+	
+	//Shot hand for border
+	//border-color: black;
+	//border-width: 2px;
+	//border-style: solid;
+	border: brown 2px solid;
+	background-image: url(cloudpattern.jpg);
 
 }
 
